@@ -43,7 +43,11 @@ A physical prototype was assembled as part of the project. The material currentl
 
 ## SolidWorks Dynamic Analysis
 
-[Watch the dynamic-analysis recording](videos/solidworks-dynamic-analysis.mp4)
+
+
+https://github.com/user-attachments/assets/7f03dd8b-3b37-4a9c-aba5-61ac39e7a4e0
+
+
 
 The recording shows the digital motorcycle model and reaction-wheel mechanism in a SolidWorks dynamic-analysis scene.
 
