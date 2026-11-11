@@ -2,7 +2,7 @@
 
 Mekanik tasarım ve denge analizi portföyü · Akademik Proje · 2025
 
-[English version](README.eng.md)
+[English version](README.md)
 
 ## Proje Özeti
 
