@@ -43,7 +43,11 @@ Proje kapsamında fiziksel prototipin montajı yapılmıştır. Bu sayfada şu a
 
 ## SolidWorks Dinamik Analizi
 
-[Dinamik analiz kaydını izle](videos/solidworks-dynamic-analysis.mp4)
+
+
+https://github.com/user-attachments/assets/9e2286ee-62cf-4e1d-96bf-e0ad2f0af8ee
+
+
 
 Kayıt, dijital motosiklet modelini ve tepki çarkı mekanizmasını SolidWorks dinamik analiz sahnesinde göstermektedir.
 
